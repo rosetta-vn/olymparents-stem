@@ -15,3 +15,4 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-07: Mai Thị Kim Tuyến nhận dịch bài STEM Activity - Science - Bubbles
 2017-11-07: Vũ Thị Mận nhận dịch bài STEM Activity - Math - Fishbowl
 2017-11-07: các thành viên tham gia nhóm dịch cũng được add vào nhóm Olymparents, lấy đó làm nơi trao đổi về công việc dịch
+2017-11-08: Lưu Tuấn Vũ nhận dịch bài STEM Activity - Engineering - Recycle Art

@@ -24,3 +24,4 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-09: Mai Ánh Điệp dịch xong bài STEM Activity - Engineering - Towers, Doãn Minh Đăng bắt đầu hiệu đính
 2017-11-09: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Engineering - Recycle Art
 2017-11-10: Doãn Minh Đăng hiệu đính xong bài STEM Activity - Engineering - Towers
+2017-11-10: Hoàng Thanh Hà bắt đầu hiệu đính bài STEM Activity - Engineering - Paper Bridge

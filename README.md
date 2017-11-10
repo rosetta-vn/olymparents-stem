@@ -20,3 +20,4 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-08: Hồ Thị Minh dịch xong bài STEM Activity - Engineering - Paper Bridge
 2017-11-08: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Math - Color and Shape
 2017-11-09: bản xem trước bài dịch STEM Activity - Math - Color and Shape được đưa ra nhóm Olymparents
+2017-11-09: Lưu Tuấn Vũ dịch xong bài STEM Activity - Engineering - Recycle Art, Hoàng Thanh Hà bắt đầu hiệu đính

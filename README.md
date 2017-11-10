@@ -4,3 +4,4 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-10-26: Doãn Minh Đăng tìm được một số tài liệu dạy STEM, chia sẻ trên Facebook
 2017-10-29: Doãn Minh Đăng kêu gọi trong nhóm Olympians để tìm người cùng tạo tài liệu, công cụ, giảng dạy STEM cho trẻ em
 2017-10-29: Hoàng Dương tạo nhóm Olymparents trên Facebook, ban đầu add những Olympians đã có con vào
+2017-10-30: tài liệu STEM Sprouts Guide được chọn để dịch thử, ban đầu có 5 người: Doãn Minh Đăng, Hoàng Dương, Nguyễn Tường Anh, Hoàng Thanh Hà, Mai Ánh Điệp

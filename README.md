@@ -9,3 +9,4 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-01: Doãn Minh Đăng làm xong dữ liệu Glossary ban đầu về giáo dục STEAM, bắt đầu dịch file STEMGuide.PDF với Google Translator Toolkit, 5 người phân công dịch theo các trang
 2017-11-04: Doãn Minh Đăng kêu gọi thêm người tình nguyện dịch trong nhóm Olympians
 2017-11-05: Vũ Thị Mận nhận dịch bài STEM Activity - Math - Color and Shape
+2017-11-05: Hồ Thị Minh nhận dịch bài STEM Activity - Engineering - Paper Bridge

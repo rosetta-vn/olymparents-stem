@@ -58,3 +58,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-10: Vũ Thị Mận dịch xong bài STEM Activity - Math - Fishbowl, Lưu Tuấn Vũ bắt đầu hiệu đính
 
 2017-11-11: tất cả thành viên nhóm dịch tham gia bài đang dịch STEM Guide ở Google Translator Toolkit để quan sát và bàn luận
+
+2017-11-11: Vũ Thị Mận nhận dịch bài STEM Activity - Math - Teddy Bear Picnic

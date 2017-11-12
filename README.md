@@ -68,3 +68,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-11: Hồ Thị Minh nhận dịch bài STEM Activity - Technology - Magnets
 
 2017-11-11: Mai Thị Kim Tuyến nhận dịch bài STEM Activity - Technology - Magnifying Magic
+
+2017-11-11: Trần Nữ Quế Nhi nhận dịch bài STEM Activity - Science - Air Wind

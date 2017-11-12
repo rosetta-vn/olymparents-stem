@@ -62,3 +62,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-11: Vũ Thị Mận nhận dịch bài STEM Activity - Math - Teddy Bear Picnic
 
 2017-11-11: Mai Ánh Điệp nhận dịch bài STEM Activity - Science - Shadow Play
+
+2017-11-11: Lưu Tuấn Vũ bắt đầu hiệu đính bài STEM Activity - Math - Fishbowl

@@ -74,3 +74,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-12: bản xem trước bài dịch STEM Activity - Engineering - Towers được đưa ra nhóm Olymparents
 
 2017-11-13: Lưu Tuấn Vũ hiệu đính xong bài STEM Activity - Math - Fishbowl
+
+2017-11-13: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Science - Bubbles

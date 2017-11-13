@@ -72,3 +72,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-11: Trần Nữ Quế Nhi nhận dịch bài STEM Activity - Science - Air Wind
 
 2017-11-12: bản xem trước bài dịch STEM Activity - Engineering - Towers được đưa ra nhóm Olymparents
+
+2017-11-13: Lưu Tuấn Vũ hiệu đính xong bài STEM Activity - Math - Fishbowl

@@ -37,8 +37,6 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 
 2017-11-08: Hồ Thị Minh dịch xong bài STEM Activity - Engineering - Paper Bridge
 
-2017-11-08: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Math - Color and Shape
-
 2017-11-09: bản xem trước bài dịch STEM Activity - Math - Color and Shape được đưa ra nhóm Olymparents
 
 2017-11-09: Lưu Tuấn Vũ dịch xong bài STEM Activity - Engineering - Recycle Art, Hoàng Thanh Hà bắt đầu hiệu đính
@@ -76,3 +74,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-13: Lưu Tuấn Vũ hiệu đính xong bài STEM Activity - Math - Fishbowl
 
 2017-11-13: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Science - Bubbles
+
+2017-11-14: Doãn Minh Đăng làm xong công cụ quản lý dự án dịch trên Google Sheets, shared ở http://bit.ly/olymparents-manager

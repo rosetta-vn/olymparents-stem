@@ -80,3 +80,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-14: Trần Nữ Quế Nhi dịch xong bài STEM Activity - Science - Air Wind, Doãn Minh Đăng bắt đầu hiệu đính
 
 2017-11-14: bản xem trước bài dịch STEM Activity - Math - Fishbowl được đưa ra nhóm Olymparents
+
+2017-11-15: bài dịch STEM Activity - Math - Color and Shape được sửa lần cuối, sẵn sàng in

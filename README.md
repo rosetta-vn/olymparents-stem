@@ -76,3 +76,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-13: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Science - Bubbles
 
 2017-11-14: Doãn Minh Đăng làm xong công cụ quản lý dự án dịch trên Google Sheets, shared ở http://bit.ly/olymparents-manager
+
+2017-11-14: Trần Nữ Quế Nhi dịch xong bài STEM Activity - Science - Air Wind, Doãn Minh Đăng bắt đầu hiệu đính

@@ -214,3 +214,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-18: Hoàng Thanh Hà và Trần Nữ Quế Nhi dịch xong phần 1 (trang 1-9) tài liệu Family Activities Workbook, đến Mai Ánh Điệp hiệu đính
 
 2017-12-18: Doãn Minh Đăng phát hành bài dịch STEM Activity - Technology - Shape It Up
+
+2017-12-18: Mai Thị Kim Tuyến hiệu đính xong bài STEM Activity - Science - Shadow Play

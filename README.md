@@ -110,3 +110,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-17: Lưu Tuấn Vũ hiệu đính xong bài Science Process Skills Worksheet
 
 2017-11-17: Bản xem trước bài dịch Science Process Skills Worksheet được đưa ra nhóm Olymparents
+
+2017-11-17: Trần Nữ Quỳnh Nhi nhận dịch bài Parent Tip - Engineering

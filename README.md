@@ -37,7 +37,7 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 
 2017-11-08: Hồ Thị Minh dịch xong bài STEM Activity - Engineering - Paper Bridge
 
-2017-11-09: bản xem trước bài dịch STEM Activity - Math - Color and Shape được đưa ra nhóm Olymparents
+2017-11-09: bản xem trước (preview) bài dịch STEM Activity - Math - Color and Shape được đưa ra nhóm Olymparents
 
 2017-11-09: Lưu Tuấn Vũ dịch xong bài STEM Activity - Engineering - Recycle Art, Hoàng Thanh Hà bắt đầu hiệu đính
 
@@ -218,3 +218,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-18: Mai Thị Kim Tuyến hiệu đính xong bài STEM Activity - Science - Shadow Play
 
 2017-12-19: bản xem trước bài STEM Activity - Science - Shadow Play được đưa ra nhóm Olymparents
+
+2017-12-20: Doãn Minh Đăng tổng kết các phản hồi của những người tham gia thử nghiệm hai hoạt động STEM đợt đầu là Towers và Air and Wind để thông tin cho các cha mẹ

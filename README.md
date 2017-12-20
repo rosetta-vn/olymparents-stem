@@ -188,3 +188,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-30: Nguyễn Tường Anh bắt đầu quản lý quy trình dịch tài liệu PreK-Standards-Slides
 
 **2017-12-01: Các tài liệu Ươm mầm STEM đầu tiên được gửi cho bạn bè thử nghiệm: hai STEM Activities Xây tháp (Towers), Không khí và gió (Air and Wind), cùng hai Parent Tips về Engineering và Science**
+
+2017-12-01: Mai Thị Kim Tuyến dịch xong bài STEM Activity - Technology - Magnifying Magic, Trần Nữ Quế Nhi bắt đầu hiệu đính

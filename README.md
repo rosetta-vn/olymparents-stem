@@ -206,3 +206,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 **2017-12-10: Doãn Minh Đăng bắt đầu phát hành (release) một số bài dịch trong bộ STEM Sprouts, gồm các STEM Activities: BCM02-ColorShape, BCM04-Towers, BCM05-RecycleArt, BCM06-Bubbles, BCM07-Fishbowl, BCM12-AirWind**
 
 2017-12-11: Doãn Minh Đăng phát hành bài dịch STEM Activity - Engineering - Paper Bridge
+
+**2017-12-11: Hoàng Thanh Hà lập trang Facebook Olym Parent để chuẩn bị truyền thông cho công việc của nhóm**

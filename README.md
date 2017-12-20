@@ -210,3 +210,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 **2017-12-11: Hoàng Thanh Hà lập trang Facebook Olym Parent để chuẩn bị truyền thông cho công việc của nhóm**
 
 2017-12-15: Vũ Thị Mận đưa ra nhóm Olymparents bản xem trước bài dịch I am a Scientist Workbook
+
+2017-12-18: Hoàng Thanh Hà và Trần Nữ Quế Nhi dịch xong phần 1 (trang 1-9) tài liệu Family Activities Workbook, đến Mai Ánh Điệp hiệu đính

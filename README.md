@@ -116,3 +116,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-17: Quỳnh Trần nhận dịch bài Parent Tip - Hearing
 
 2017-11-17: Vũ Thị Mận nhận dịch bài Parent Tip - Math
+
+2017-11-17: Hoàng Thanh Hà nhận dịch bài Parent Tip - Science

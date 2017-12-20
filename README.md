@@ -84,3 +84,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-15: bài dịch STEM Activity - Math - Color and Shape được sửa lần cuối, sẵn sàng in
 
 2017-11-15: Vũ Thị Mận dịch xong bài STEM Activity - Math - Teddy Bear Picnic, Lưu Tuấn Vũ bắt đầu hiệu đính
+
+2017-11-15: Bản xem trước bài dịch STEM Activity - Science - Bubbles được đưa ra nhóm Olymparents

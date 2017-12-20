@@ -200,3 +200,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 **2017-12-05: Quỳnh Trần hoàn thiện logo nhóm Olymparents, bắt đầu sử dụng**
 
 2017-12-06: Trần Nữ Quế Nhi hiệu đính xong bài STEM Activity - Technology - Magnifying Magic
+
+2017-12-07: bản xem trước bài STEM Activity - Technology - Magnifying Magic được đưa ra nhóm Olymparents

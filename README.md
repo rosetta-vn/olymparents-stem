@@ -161,7 +161,7 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 
 2017-11-24: bản xem trước bài Parent Tip - Engineering được đưa ra nhóm Olymparents
 
-**2017-11-25: Họp nhóm dịch tài liệu STEM Olymparents lần đầu qua mạng**
+**2017-11-25: Họp nhóm dịch tài liệu STEM Olymparents lần đầu qua Facebook Messenger**
 
 2017-11-28: Mai Thị Kim Tuyến hiệu đính xong bài Parent Tip - Hearing
 
@@ -180,3 +180,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-29: Vũ Thị Mận bắt đầu quản lý quy trình dịch tài liệu I am a Scientist Workbook
 
 2017-11-30: Doãn Minh Đăng viết dự kiến cấu trúc của bảng câu hỏi phản hồi cho quá trình thử nghiệm
+
+2017-11-30: Hoàng Thanh Hà, Trần Nữ Quế Nhi dịch, Mai Ánh Điệp hiệu đính phần 1 tài liệu Family Activities Workbook

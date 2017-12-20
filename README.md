@@ -136,3 +136,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-20: Vũ Thị Mận dịch xong bài Parent Tip - Math, Hồ Thị Minh bắt đầu hiệu đính
 
 2017-11-20: Trần Nữ Quỳnh Nhi dịch xong bài Parent Tip - Engineering, Lưu Tuấn Vũ bắt đầu hiệu đính
+
+2017-11-21: Quỳnh Trần hiệu đính xong bài Parent Tip - Technology

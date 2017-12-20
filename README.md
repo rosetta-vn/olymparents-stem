@@ -120,3 +120,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-17: Hoàng Thanh Hà nhận dịch bài Parent Tip - Science
 
 2017-11-17: Lưu Tuấn Vũ nhận dịch bài Parent Tip - Technology
+
+2017-11-17: Nguyễn Tường Anh nhận dịch bài Parent Tip - Touching

@@ -198,3 +198,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-05: bản dịch bài Parent Tip - Hearing được đưa ra nhóm Olymparents
 
 **2017-12-05: Quỳnh Trần hoàn thiện logo nhóm Olymparents, bắt đầu sử dụng**
+
+2017-12-06: Trần Nữ Quế Nhi hiệu đính xong bài STEM Activity - Technology - Magnifying Magic

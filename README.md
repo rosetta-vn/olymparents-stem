@@ -202,3 +202,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-06: Trần Nữ Quế Nhi hiệu đính xong bài STEM Activity - Technology - Magnifying Magic
 
 2017-12-07: bản xem trước bài STEM Activity - Technology - Magnifying Magic được đưa ra nhóm Olymparents
+
+**2017-12-10: Doãn Minh Đăng bắt đầu phát hành (release) một số bài dịch trong bộ STEM Sprouts, gồm các STEM Activities: BCM02-ColorShape, BCM04-Towers, BCM05-RecycleArt, BCM06-Bubbles, BCM07-Fishbowl, BCM12-AirWind**

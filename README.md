@@ -192,3 +192,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-01: Mai Thị Kim Tuyến dịch xong bài STEM Activity - Technology - Magnifying Magic, Trần Nữ Quế Nhi bắt đầu hiệu đính
 
 2017-12-01: Mai Ánh Điệp dịch xong bài STEM Activity - Science - Shadow Play, Mai Thị Kim Tuyến bắt đầu hiệu đính
+
+2017-12-04: Quỳnh Trần dịch xong bài Parent Tip - Smelling and tasting, Nguyễn Tường Anh bắt đầu hiệu đính

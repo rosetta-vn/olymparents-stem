@@ -94,3 +94,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-16: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Engineering - Paper Bridge
 
 2017-11-16: Quỳnh Trần nhận dịch bài STEM Activity - Technology - Shape It Up
+
+2017-11-16: Quỳnh Trần dịch xong bài STEM Activity - Technology - Shape It Up

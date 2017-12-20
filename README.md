@@ -98,3 +98,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-16: Quỳnh Trần dịch xong bài STEM Activity - Technology - Shape It Up
 
 2017-11-17: Nguyễn Tường Anh nhận dịch bài Science Process Skills Worksheet
+
+2017-11-17: Nguyễn Tường Anh dịch xong bài Science Process Skills Worksheet, Lưu Tuấn Vũ bắt đầu hiệu đính

@@ -182,3 +182,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-30: Doãn Minh Đăng viết dự kiến cấu trúc của bảng câu hỏi phản hồi cho quá trình thử nghiệm
 
 2017-11-30: Hoàng Thanh Hà, Trần Nữ Quế Nhi dịch, Mai Ánh Điệp hiệu đính phần 1 tài liệu Family Activities Workbook
+
+2017-11-30: Lưu Tuần Vũ và Quỳnh Trần dịch, Nguyễn Tường Anh hiệu đính phần 2 (trang 10-19) tài liệu Family Activities Workbook

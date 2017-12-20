@@ -196,3 +196,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-04: Quỳnh Trần dịch xong bài Parent Tip - Smelling and tasting, Nguyễn Tường Anh bắt đầu hiệu đính
 
 2017-12-05: bản dịch bài Parent Tip - Hearing được đưa ra nhóm Olymparents
+
+**2017-12-05: Quỳnh Trần hoàn thiện logo nhóm Olymparents, bắt đầu sử dụng**

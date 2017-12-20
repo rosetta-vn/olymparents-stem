@@ -86,3 +86,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-15: Vũ Thị Mận dịch xong bài STEM Activity - Math - Teddy Bear Picnic, Lưu Tuấn Vũ bắt đầu hiệu đính
 
 2017-11-15: Bản xem trước bài dịch STEM Activity - Science - Bubbles được đưa ra nhóm Olymparents
+
+2017-11-15: Lưu Tuấn Vũ hiệu đính xong bài STEM Activity - Math - Teddy Bear Picnic

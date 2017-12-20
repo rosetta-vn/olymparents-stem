@@ -124,3 +124,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-17: Nguyễn Tường Anh nhận dịch bài Parent Tip - Touching
 
 2017-11-18: Quỳnh Trần dịch xong bài Parent Tip - Hearing, Mai Thị Kim Tuyến bắt đầu hiệu đính
+
+2017-11-18: Quỳnh Trần nhận dịch bài Parent Tip - Smelling and tasting

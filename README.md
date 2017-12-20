@@ -90,3 +90,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-15: Lưu Tuấn Vũ hiệu đính xong bài STEM Activity - Math - Teddy Bear Picnic
 
 2017-11-15: Doãn Minh Đăng hiệu đính xong bài STEM Activity - Science - Air Wind
+
+2017-11-16: Hoàng Thanh Hà hiệu đính xong bài STEM Activity - Engineering - Paper Bridge

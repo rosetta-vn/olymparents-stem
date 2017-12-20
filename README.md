@@ -130,3 +130,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-11-19: Nguyễn Thị Thanh Huyền nhận dịch bài Parent Tip - Seeing
 
 2017-11-20: Hoàng Thanh Hà dịch xong bài Parent Tip - Science, Trần Nữ Quế Nhi bắt đầu hiệu đính
+
+2017-11-20: Lưu Tuấn Vũ dịch xong bài Parent Tip - Technology, Quỳnh Trần bắt đầu hiệu đính

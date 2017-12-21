@@ -1,0 +1,3 @@
+[submodule "docs/FreeMindViewer"]
+	path = docs/FreeMindViewer
+	url = https://github.com/doanminhdang/FreeMindViewer.git

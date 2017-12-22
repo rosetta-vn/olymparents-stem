@@ -220,3 +220,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-19: bản xem trước bài STEM Activity - Science - Shadow Play được đưa ra nhóm Olymparents
 
 2017-12-20: Doãn Minh Đăng tổng kết các phản hồi của những người tham gia thử nghiệm hai hoạt động STEM đợt đầu là Towers và Air and Wind để thông tin cho các cha mẹ
+
+2017-12-22: Doãn Minh Đăng phát hành bài dịch STEM Activity - Math - Teddy Bear Picnic

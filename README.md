@@ -254,3 +254,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2018-01-05: Nguyễn Thị Thanh Huyền dịch xong bài Parent Tip - Seeing, chuyển cho Quỳnh Trần hiệu đính
 
 2018-01-08: Trần Nữ Tố Nhi hiệu đính xong bài STEM Activity - Technology - Magnets
+
+2018-01-08: bản xem trước bài STEM Activity - Technology - Magnets được đưa ra nhóm Olymparents

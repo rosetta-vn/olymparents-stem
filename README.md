@@ -240,3 +240,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 **2018-01-02: Họp offline nhóm Olymparents tại Hà Nội, nhân dịp Hoàng Dương ra và kết hợp với Hoàng Thanh Hà làm việc cùng một số đối tác tiềm năng của Olymparents**
 
 2018-01-03: Doãn Minh Đăng phát hành bài dịch Parent Tip - Science
+
+2018-01-03: Doãn Minh Đăng phát hành bài dịch Parent Tip - Math

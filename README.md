@@ -232,3 +232,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-29: Hồ Thị Minh dịch xong bài STEM Activity - Technology - Magnets, Trần Nữ Quế Nhi sẽ hiệu đính
 
 2017-12-29: Hồ Thị Minh hiệu đính xong bài Parent Tip - Math
+
+2017-12-30: bản xem trước bài Parent Tip - Math được đưa ra nhóm Olymparents

@@ -226,3 +226,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-22: Mai Ánh Điệp hiệu đính xong phần 1 (trang 1-9) tài liệu Family Activities Workbook
 
 2017-12-23: Doãn Minh Đăng phát hành bài dịch I am a Scientist Workbook
+
+2017-12-26: Doãn Minh Đăng phát hành bài dịch Parent Tip - Engineering

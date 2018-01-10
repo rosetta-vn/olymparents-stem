@@ -244,3 +244,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2018-01-03: Doãn Minh Đăng phát hành bài dịch Parent Tip - Math
 
 2018-01-04: Lê Diệu Hương tham gia nhóm, nhận dịch phần 3 (trang 20-21) tài liệu Family Activities Workbook
+
+2018-01-05: Doãn Minh Đăng phát hành bài dịch STEM Activity - Technology - Magnifying Magic

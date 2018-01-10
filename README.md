@@ -234,3 +234,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2017-12-29: Hồ Thị Minh hiệu đính xong bài Parent Tip - Math
 
 2017-12-30: bản xem trước bài Parent Tip - Math được đưa ra nhóm Olymparents
+
+**2017-12-30: Họp nhóm dịch tài liệu STEM Olymparents lần thứ hai qua Facebook Messenger, do bận rộn nên chỉ có 4 người tham gia**

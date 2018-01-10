@@ -250,3 +250,5 @@ Cập nhật các sự kiện của nhóm làm việc Olymparents theo thời gi
 2018-01-05: Doãn Minh Đăng phát hành bài dịch STEM Activity - Science - Shadow Play
 
 2018-01-05: Lê Diệu Hương dịch xong phần 3 (trang 20-21) tài liệu Family Activities Workbook, chuyển cho Quỳnh Trần hiệu đính
+
+2018-01-05: Nguyễn Thị Thanh Huyền dịch xong bài Parent Tip - Seeing, chuyển cho Quỳnh Trần hiệu đính

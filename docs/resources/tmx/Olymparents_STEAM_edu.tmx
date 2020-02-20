@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationtool="TMM" creationtoolversion="1.0" segtype="" o-tmf="" adminlang="" srclang="*all*" datatype=""/>
+<body>
+<tu tuid="T:en:vi:false:126353009757687854:16346406320570462436:vi:15185831024464834479:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Cheese vs. cracker: which one is crispier or smoother?</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Bơ so với bánh quy: Loại nào là giòn hơn hay mềm hơn? (TODO: Đăng hiệu đính đến đây)</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Cheese vs. cracker: which one is crispier or smoother?</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1575445223000000">
+       <translation_content>Bơ so với bánh quy: Loại nào là giòn hơn hay mềm hơn? (TODO: Đăng hiệu đính đến đây)</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABlCkBBcHBsZSBzbGljZSB2cy4gb3JhbmdlIHNsaWNlOiB3aGljaCBvbmUgaXMgc3dlZXRlciBvciBtb3JlIHRhcnQ/EiHigJxJIGNhbiB0YXN0ZSB0aGUgcm9hc3QgYmVlZiHigJ0=</context>
+ </entry_metadata>
+ <translation_content_hash>82c5d2e6a727e2da3bd24a1484fef1b6</translation_content_hash>
+ <entry_metadata_hash>fb5158678018012e0e554e9773dae409</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:9907633863304167501:16577696068681771790:vi:17142769303860420999:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>In Germany it&amp;#39;s still illegal to sell food products containing insects.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Ở Đức, luật pháp vẫn chưa cho bán các sản phẩm thực phẩm có chứa côn trùng.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>In Germany it&amp;#39;s still illegal to sell food products containing insects.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054983000000">
+       <translation_content>Ở Đức, luật pháp vẫn chưa cho bán các sản phẩm thực phẩm có chứa côn trùng.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAFpCocCIkF0IHRoZSBzYW1lIHRpbWUgd2UncmUgaG9waW5nIHdlIHdpbGwgYmVjb21lIGEgbW9kZWwgZm9yIG90aGVyIGNvdW50cmllcywgZm9yIGluc3RhbmNlIGluIGRldmVsb3BpbmcgY291bnRyaWVzIHdoZXJlIHRoZXkgdXNlZCB0byBlYXQgaW5zZWN0cyBidXQgc3RvcHBlZCBkb2luZyBzbyBpbiBvcmRlciB0byBhZG9wdCB0aGUgd2VzdGVybiBsaWZlc3R5bGUgYW5kIGVhdCBiZWVmIGJ1cmdlcnMgLS0gZm9sbG93aW5nIHRoZSBNY0RvbmFsZHMgbGlmZXN0eWxlLiISXUJ1dCBhIGZldyByZXN0YXVyYW50cyBpbiBCZWxnaXVtIGFuZCB0aGUgTmV0aGVybGFuZHMgYWxyZWFkeSBoYXZlIEJ1eCBCdXJnZXJzIG9uIHRoZWlyIG1lbnVzLg==</context>
+ </entry_metadata>
+ <translation_content_hash>4f50d4e299275dfca22453d0ed0a89a5</translation_content_hash>
+ <entry_metadata_hash>e71baff0bdbd69e08c89ebd278334eeb</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:8987718951154657162:4607774477770293583:vi:7752733910435749781:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The exotic hamburgers cost between 12 and 17 euros.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Những chiếc ham-bơ-gơ mới lạ này có giá từ 12 đến 17 euro.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The exotic hamburgers cost between 12 and 17 euros.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533055011000000">
+       <translation_content>Những chiếc ham-bơ-gơ mới lạ này có giá từ 12 đến 17 euro.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACzCl1CdXQgYSBmZXcgcmVzdGF1cmFudHMgaW4gQmVsZ2l1bSBhbmQgdGhlIE5ldGhlcmxhbmRzIGFscmVhZHkgaGF2ZSBCdXggQnVyZ2VycyBvbiB0aGVpciBtZW51cy4SUlN0YXJ0aW5nIG5leHQgeWVhciBzZWxsaW5nIGluc2VjdCBmb29kIHByb2R1Y3RzIHdpbGwgYmUgbGVnYWxsaXplZCBpbiBHZXJtYW55IHRvby4=</context>
+ </entry_metadata>
+ <translation_content_hash>e31b9ff150ab4de6228d06e2cd011220</translation_content_hash>
+ <entry_metadata_hash>bf6d98690b73422d469abb99fd5294d2</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:7813668335790060731:18316110237588767473:vi:12983949646819083453:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>So within five years I think we will all eat a couple of times a year insects.&amp;quot;</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Vì vậy, trong 5 năm tới, tôi nghĩ tất cả chúng ta sẽ ăn côn trùng vài lần một năm.&amp;quot;</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>So within five years I think we will all eat a couple of times a year insects.&amp;quot;</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054152000000">
+       <translation_content>Vì vậy, trong 5 năm tới, tôi nghĩ tất cả chúng ta sẽ ăn côn trùng vài lần một năm.&amp;quot;</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAADNCoMBIkkgdGhpbmsgd2l0aGluIGZpdmUgeWVhcnMgaXTigJlzIHF1aXRlIG5vcm1hbCB0byBlYXQgdGhlIGluc2VjdHMsIGl0IHdpbGwgYmUgdGhlIGluZ3JlZGllbnQgaW5zaWRlIGEgbG90IG9mIGZvb2QgcHJvZHVjdHMgSSB0aGluay4SRVRoZSB3b3JtcyBhcmUgYSBzdXN0YWluYWJsZSBzb3VyY2Ugb2YgZW5lcmd5LCBjb250YWluaW5nIDUwJSBwcm90ZWluLg==</context>
+ </entry_metadata>
+ <translation_content_hash>bdb70b194ce0f505a28312c0440159c2</translation_content_hash>
+ <entry_metadata_hash>98989594c77038eba7b6043f4c5b9e5a</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:7285916211255524968:12880974329870533839:vi:5386552422695578463:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>&amp;quot;I think within five years it’s quite normal to eat the insects, it will be the ingredient inside a lot of food products I think.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>&amp;quot;Tôi nghĩ trong 5 năm tới việc ăn côn trùng là khá bình thường, nó sẽ là thành phần trong nhiều sản phẩm thực phẩm.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>&amp;quot;I think within five years it’s quite normal to eat the insects, it will be the ingredient inside a lot of food products I think.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054139000000">
+       <translation_content>&amp;quot;Tôi nghĩ trong 5 năm tới việc ăn côn trùng là khá bình thường, nó sẽ là thành phần trong nhiều sản phẩm thực phẩm.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACGCjMrKysgTmljbyBSb29kLCBQbGFudCBNYW5hZ2VyIFByb3RpLUZhcm0gKysrIEVOR0xJU0gST1NvIHdpdGhpbiBmaXZlIHllYXJzIEkgdGhpbmsgd2Ugd2lsbCBhbGwgZWF0IGEgY291cGxlIG9mIHRpbWVzIGEgeWVhciBpbnNlY3RzLiI=</context>
+ </entry_metadata>
+ <translation_content_hash>ca00fc29fb9702ad368684376fa8c986</translation_content_hash>
+ <entry_metadata_hash>ff94f6840495221c1672ebfe99f2a9fd</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:6741447572042906773:1129896878943692516:vi:6377502325561427520:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Now the young entrepreneurs employ a team of four people.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Hiện nay công ty của các doanh nhân trẻ đang thuê bốn nhân viên.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Now the young entrepreneurs employ a team of four people.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054402000000">
+       <translation_content>Hiện nay công ty của các doanh nhân trẻ đang thuê bốn nhân viên.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABvClxUaGV5IHN0YXJ0ZWQgdGhlaXIgY29tcGFueSBCdWdmb3VuZGF0aW9uIGluIDIwMTQgd2l0aCAxMC10aG91c2FuZCBldXJvcyBpbiBzdGFydC11cCBjYXBpdGFsLhIPMDI6MDMg4oCTIDAyOjMz</context>
+ </entry_metadata>
+ <translation_content_hash>0f18ce8f8dd4447f2b2a1e5e082add31</translation_content_hash>
+ <entry_metadata_hash>f1ed0feb546975fd0a188ee0cc911858</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:5981494238263781688:12115975123704980084:vi:1077642967978419867:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Then the Bugfoundation founders will be worming their way into the fast food business.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Khi đó, những người sáng lập Bugfoundation sẽ thâm nhập thị trường đồ ăn nhanh theo cách của họ.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Then the Bugfoundation founders will be worming their way into the fast food business.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533055044000000">
+       <translation_content>Khi đó, những người sáng lập Bugfoundation sẽ thâm nhập thị trường đồ ăn nhanh theo cách của họ.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABUClJTdGFydGluZyBuZXh0IHllYXIgc2VsbGluZyBpbnNlY3QgZm9vZCBwcm9kdWN0cyB3aWxsIGJlIGxlZ2FsbGl6ZWQgaW4gR2VybWFueSB0b28u</context>
+ </entry_metadata>
+ <translation_content_hash>1936c32552a89014413c94b64fdb06ef</translation_content_hash>
+ <entry_metadata_hash>2f881b4186be8728fee89d3099b9a691</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:5950042695234477694:5631924191237631463:vi:3568237101199626802:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>And the next thing they say is &amp;quot;When we can we finally try it out?&amp;quot;</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Và điều tiếp theo họ nói là &amp;quot;Khi nào chúng tôi có thể thử nó vậy?&amp;quot;</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>And the next thing they say is &amp;quot;When we can we finally try it out?&amp;quot;</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054682000000">
+       <translation_content>Và điều tiếp theo họ nói là &amp;quot;Khi nào chúng tôi có thể thử nó vậy?&amp;quot;</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABCCjtJbiB0aGUgbWVhbnRpbWUsIGV2ZXJ5Ym9keSB0aGlua3Mgd2hhdCB3ZSdyZSBkb2luZyBpcyBjb29sLhIDMjMw</context>
+ </entry_metadata>
+ <translation_content_hash>80f4be7a0afe0d2576031a113f6bc242</translation_content_hash>
+ <entry_metadata_hash>0da373a92fe44a1e55a2b7273f252810</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:3377315865389396022:1119699310854763572:vi:9553055455261103100:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>&amp;quot;At the same time we&amp;#39;re hoping we will become a model for other countries, for instance in developing countries where they used to eat insects but stopped doing so in order to adopt the western lifestyle and eat beef burgers -- following the McDonalds lifestyle.&amp;quot;</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>&amp;quot;Đồng thời, chúng tôi hy vọng sẽ trở thành một hình mẫu cho các quốc gia khác, ví dụ ở các nước đang phát triển nơi người dân từng ăn côn trùng nhưng ngừng làm như vậy để tiếp nhận lối sống phương Tây và ăn bánh mì kẹp thịt bò - theo phong cách McDonalds.&amp;quot;</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>&amp;quot;At the same time we&amp;#39;re hoping we will become a model for other countries, for instance in developing countries where they used to eat insects but stopped doing so in order to adopt the western lifestyle and eat beef burgers -- following the McDonalds lifestyle.&amp;quot;</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054883000000">
+       <translation_content>&amp;quot;Đồng thời, chúng tôi hy vọng sẽ trở thành một hình mẫu cho các quốc gia khác, ví dụ ở các nước đang phát triển nơi người dân từng ăn côn trùng nhưng ngừng làm như vậy để tiếp nhận lối sống phương Tây và ăn bánh mì kẹp thịt bò - theo phong cách McDonalds.&amp;quot;</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAB8CjErKysgU09UIE1heCBLcsOkbWVyLCBCdWdmb3VuZGF0aW9uIENvLUZvdW5kZXIgKysrEkdJbiBHZXJtYW55IGl0J3Mgc3RpbGwgaWxsZWdhbCB0byBzZWxsIGZvb2QgcHJvZHVjdHMgY29udGFpbmluZyBpbnNlY3RzLg==</context>
+ </entry_metadata>
+ <translation_content_hash>2e7821d0c02c6cc2b46feba242771604</translation_content_hash>
+ <entry_metadata_hash>230461f708f910abc6b33a1a761bd0d9</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:2404455626644927857:14216098615350442340:vi:10124343833756722788:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>That&amp;#39;s how they got the idea to start their business.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg> Từ đó họ nảy ra ý tưởng kinh doanh này.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>That&amp;#39;s how they got the idea to start their business.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054542000000">
+       <translation_content> Từ đó họ nảy ra ý tưởng kinh doanh này.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABXCk9UaGUgZm91bmRlcnMgZmlyc3QgZW5jb3VudGVyZWQgZWRpYmxlIGluc2VjdHMgZHVyaW5nIGEgd29ybGQgdHJpcCA3IHllYXJzIGFnby4gEgQyLjEx</context>
+ </entry_metadata>
+ <translation_content_hash>129e6c2b43ff16c132fb54bd370f385e</translation_content_hash>
+ <entry_metadata_hash>b84bc8bc7d187435e5945cf89c10c10b</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:2274216991014109831:9429783895224325100:vi:4958800337446077287:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The manufacturers have been breeding insects here for about 40 years, mainly as animal feed and for the cosmetics industry.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Khoảng 40 năm vừa qua các nhà sản xuất đã nuôi côn trùng ở đây, chủ yếu làm thức ăn chăn nuôi và dùng cho ngành công nghiệp mỹ phẩm.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The manufacturers have been breeding insects here for about 40 years, mainly as animal feed and for the cosmetics industry.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533055334000000">
+       <translation_content>Khoảng 40 năm vừa qua các nhà sản xuất đã nuôi côn trùng ở đây, chủ yếu làm thức ăn chăn nuôi và dùng cho ngành công nghiệp mỹ phẩm.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACgCk1UaGUgcHJvZHVjdGlvbiBvZiB0aGUgaW5zZWN0IGJ1cmdlcnMgYmVnaW5zIGhlcmUgaW4gdGhlIER1dGNoIHRvd24gb2YgRXJtZWxvLhJPQnV0IHJlY2VudGx5IHRoZXkndmUgYmVlbiBwcm9kdWNpbmcgbW9yZSBhbmQgbW9yZSBsYXJ2YWUgZm9yIGh1bWFuIGNvbnN1bXB0aW9uLg==</context>
+ </entry_metadata>
+ <translation_content_hash>14e88c5e10a43bb28a67333892effa5a</translation_content_hash>
+ <entry_metadata_hash>e10d4f2770a0c90efc71af4457f846b9</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:16976150447291248775:11689983725869289700:vi:4592691464955691172:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>In the meantime, everybody thinks what we&amp;#39;re doing is cool.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Đồng thời, họ nghĩ rằng những gì chúng tôi đang làm là thú vị.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>In the meantime, everybody thinks what we&amp;#39;re doing is cool.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054654000000">
+       <translation_content>Đồng thời, họ nghĩ rằng những gì chúng tôi đang làm là thú vị.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAADRCokBIldoZW4gd2UgZmlyc3QgdG9sZCBmcmllbmRzLCBmYW1pbHkgYW5kIGFjcXVhaW50ZW5jZXMgYWJvdXQgb3VyIGlkZWEsIG1vc3Qgb2YgdGhlbSBzYWlkIHdlIHdlcmUgY3JhenksIHRoYXQgdGhlcmUncyBubyB3YXkgaXQgd291bGQgd29yay4SQ0FuZCB0aGUgbmV4dCB0aGluZyB0aGV5IHNheSBpcyAiV2hlbiB3ZSBjYW4gd2UgZmluYWxseSB0cnkgaXQgb3V0PyI=</context>
+ </entry_metadata>
+ <translation_content_hash>3cd54189f1a798b7b80a78481364aaba</translation_content_hash>
+ <entry_metadata_hash>77921628edb30116eaefcf33a0a54514</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:16903516019888875912:5557065819893209611:vi:6145227739422271084:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>But a few restaurants in Belgium and the Netherlands already have Bux Burgers on their menus.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Nhưng một vài nhà hàng ở Bỉ và Hà Lan đã đưa Bux Burgers vào thực đơn của họ.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>But a few restaurants in Belgium and the Netherlands already have Bux Burgers on their menus.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054923000000">
+       <translation_content>Nhưng một vài nhà hàng ở Bỉ và Hà Lan đã đưa Bux Burgers vào thực đơn của họ.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAB+CkdJbiBHZXJtYW55IGl0J3Mgc3RpbGwgaWxsZWdhbCB0byBzZWxsIGZvb2QgcHJvZHVjdHMgY29udGFpbmluZyBpbnNlY3RzLhIzVGhlIGV4b3RpYyBoYW1idXJnZXJzIGNvc3QgYmV0d2VlbiAxMiBhbmQgMTcgZXVyb3Mu</context>
+ </entry_metadata>
+ <translation_content_hash>e7c057389b5a37f90c134245529486cb</translation_content_hash>
+ <entry_metadata_hash>b970665ea4b66a6e1fbc71a8f4f55be2</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:1682054616642366243:10882209033727222651:vi:10641962184080325036:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>And the insects are also climate friendly.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Và côn trùng cũng dễ thích nghi với khí hậu.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>And the insects are also climate friendly.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054776000000">
+       <translation_content>Và côn trùng cũng dễ thích nghi với khí hậu.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABeClZUaGF0IHdpbGwgYmUgZ29vZCBmb3IgdGhlIGVudmlyb25tZW50IGJlY2F1c2UgbGVzcyBncmFpbiB3aWxsIGJlIHVzZWQgZm9yIGNhdHRsZSBmZWVkLhIEMi41Mw==</context>
+ </entry_metadata>
+ <translation_content_hash>5f73dd3660f1270e27052f1b6b8aa843</translation_content_hash>
+ <entry_metadata_hash>cb82048b8e36f2ddb3ff6ec218da671e</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:16234363604005965126:6424573090949917103:vi:3860589113225702947:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The larvae live for three months in these boxes where they consume grain.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Ấu trùng sống ba tháng trong các hộp này và chỉ ăn ngũ cốc.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The larvae live for three months in these boxes where they consume grain.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054237000000">
+       <translation_content>Ấu trùng sống ba tháng trong các hộp này và chỉ ăn ngũ cốc.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACBCiRBbmQgdGhlaXIgQ08yIGVtaXNzaW9ucyBhcmUgbWluaW1hbC4SWVdoZW4gdGhleSdyZSBsYXJnZSBlbm91Z2ggdG8gYmUgaGFydmVzdGVkLCB0aGV5J3JlIGZsYXNoLWZyb3plbiBhbmQgc2hpcHBlZCB0byBjdXN0b21lcnMu</context>
+ </entry_metadata>
+ <translation_content_hash>d300c39284a5d8998d4698e22455ea55</translation_content_hash>
+ <entry_metadata_hash>a18627f1c62d529ec455d1f241b3ef07</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:15195473522201414980:15531489298389452011:vi:7637552572886425321:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>That will be good for the environment because less grain will be used for cattle feed.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Điều đó tốt cho môi trường vì sẽ giúp giảm lượng ngũ cốc nuôi gia súc.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>That will be good for the environment because less grain will be used for cattle feed.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054799000000">
+       <translation_content>Điều đó tốt cho môi trường vì sẽ giúp giảm lượng ngũ cốc nuôi gia súc.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABwCkJUaGUgZm91bmRlcnMgaG9wZSB0aGVpciBidXJnZXIgd2lsbCBsZWFkIHRvIGxlc3MgbWVhdCBiZWluZyBlYXRlbi4SKkFuZCB0aGUgaW5zZWN0cyBhcmUgYWxzbyBjbGltYXRlIGZyaWVuZGx5Lg==</context>
+ </entry_metadata>
+ <translation_content_hash>adafb29a5f64b78928953b94463345c8</translation_content_hash>
+ <entry_metadata_hash>00256a42b118a795a8b2229ad305eb7c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:14801053705959925469:4617165742022190728:vi:14680457150328817183:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The worms are a sustainable source of energy, containing 50% protein.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Ấu trùng là nguồn năng lượng bền vững, chúng chứa 50% protein.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The worms are a sustainable source of energy, containing 50% protein.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054180000000">
+       <translation_content>Ấu trùng là nguồn năng lượng bền vững, chúng chứa 50% protein.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAC6Ck9TbyB3aXRoaW4gZml2ZSB5ZWFycyBJIHRoaW5rIHdlIHdpbGwgYWxsIGVhdCBhIGNvdXBsZSBvZiB0aW1lcyBhIHllYXIgaW5zZWN0cy4iEmdUaGV5IG9ubHkgbmVlZCBhIGZyYWN0aW9uIG9mIHRoZSBzcGFjZSwgd2F0ZXIgYW5kIGZlZWQgdGhhdCBicmVlZGluZyBoaWdoZXIgb3JkZXJzIG9mIGFuaW1hbHMgcmVxdWlyZXMu</context>
+ </entry_metadata>
+ <translation_content_hash>0f1e6f353d0879c51fe9bfa1794f492f</translation_content_hash>
+ <entry_metadata_hash>37e53b96238351f5852360c4e78bb1ad</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:1321276082862395306:10194168767646388397:vi:370398837136076357:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The ground mealworms are mixed with, peas, water and a secret spice mixture.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Những con giun đất được trộn với đậu Hà Lan, nước và hỗn hợp gia vị bí mật.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The ground mealworms are mixed with, peas, water and a secret spice mixture.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054725000000">
+       <translation_content>Những con giun đất được trộn với đậu Hà Lan, nước và hỗn hợp gia vị bí mật.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACSCkxUaGV5IHdvcmtlZCBvbiB0aGUgZGV2ZWxvcG1lbnQgb2YgdGhlaXIgYnVyZ2VyIHBhdHRpZXMgZm9yIG1vcmUgdGhhbiBhIHllYXIuEkJUaGUgZm91bmRlcnMgaG9wZSB0aGVpciBidXJnZXIgd2lsbCBsZWFkIHRvIGxlc3MgbWVhdCBiZWluZyBlYXRlbi4=</context>
+ </entry_metadata>
+ <translation_content_hash>0dd734c34953b3b72525c164feecbc66</translation_content_hash>
+ <entry_metadata_hash>c929d51f8d34a138b610e0d84921374f</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:12492401059792519825:10448718302073887830:vi:14504407706149637886:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>When they&amp;#39;re large enough to be harvested, they&amp;#39;re flash-frozen and shipped to customers.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Khi đủ lớn để &amp;quot;xuất chuồng&amp;quot;, chúng sẽ được kết đông cực nhanh và chuyển đến khách hàng.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>When they&amp;#39;re large enough to be harvested, they&amp;#39;re flash-frozen and shipped to customers.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533055268000000">
+       <translation_content>Khi đủ lớn để &amp;quot;xuất chuồng&amp;quot;, chúng sẽ được kết đông cực nhanh và chuyển đến khách hàng.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABSCklUaGUgbGFydmFlIGxpdmUgZm9yIHRocmVlIG1vbnRocyBpbiB0aGVzZSBib3hlcyB3aGVyZSB0aGV5IGNvbnN1bWUgZ3JhaW4uEgUwMTo0Mg==</context>
+ </entry_metadata>
+ <translation_content_hash>6df1dae701e1921e52f913d1c0ea737d</translation_content_hash>
+ <entry_metadata_hash>665846cb86947f5829983881eec5bbb6</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:124251433274013461:11189854478460483534:vi:74374510566440061:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>They started their company Bugfoundation in 2014 with 10-thousand euros in start-up capital.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Họ thành lập công ty Bugfoundation năm 2014 với 10 nghìn euro vốn khởi nghiệp.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>They started their company Bugfoundation in 2014 with 10-thousand euros in start-up capital.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054346000000">
+       <translation_content>Họ thành lập công ty Bugfoundation năm 2014 với 10 nghìn euro vốn khởi nghiệp.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAB4CjtNYXggS3LDpG1lciBhbmQgQmFyaXMgw5Z6ZWwgYXJlIHRoZSBmb3VuZGVycyBvZiBCdXggQnVyZ2VyLhI5Tm93IHRoZSB5b3VuZyBlbnRyZXByZW5ldXJzIGVtcGxveSBhIHRlYW0gb2YgZm91ciBwZW9wbGUu</context>
+ </entry_metadata>
+ <translation_content_hash>293934481eef52b1ab5e549f9a36a631</translation_content_hash>
+ <entry_metadata_hash>6d2c127cf7b1b9bfb62afd43ed0e0028</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:12337692932577275850:7972116373770106966:vi:13590062054915390203:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>They only need a fraction of the space, water and feed that breeding higher orders of animals requires.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Chúng cần ít không gian sống, nước và thức ăn hơn so với động vật bậc cao hơn.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>They only need a fraction of the space, water and feed that breeding higher orders of animals requires.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054206000000">
+       <translation_content>Chúng cần ít không gian sống, nước và thức ăn hơn so với động vật bậc cao hơn.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABtCkVUaGUgd29ybXMgYXJlIGEgc3VzdGFpbmFibGUgc291cmNlIG9mIGVuZXJneSwgY29udGFpbmluZyA1MCUgcHJvdGVpbi4SJEFuZCB0aGVpciBDTzIgZW1pc3Npb25zIGFyZSBtaW5pbWFsLg==</context>
+ </entry_metadata>
+ <translation_content_hash>a9f21373952203a82c8a896f35a1c33c</translation_content_hash>
+ <entry_metadata_hash>3c7ac34222786ef7fa158c301c9577d9</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:10327045843264175177:4834768091958287372:vi:14484082976209512116:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>&amp;quot;When we first told friends, family and acquaintences about our idea, most of them said we were crazy, that there&amp;#39;s no way it would work.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>&amp;quot;Khi lần đầu chúng tôi nói với bạn bè, gia đình và người quen về ý tưởng của mình, hầu hết mọi người bảo chúng tôi bị &amp;quot;điên&amp;quot;, rằng nó sẽ không thành công.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>&amp;quot;When we first told friends, family and acquaintences about our idea, most of them said we were crazy, that there&amp;#39;s no way it would work.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1533054615000000">
+       <translation_content>&amp;quot;Khi lần đầu chúng tôi nói với bạn bè, gia đình và người quen về ý tưởng của mình, hầu hết mọi người bảo chúng tôi bị &amp;quot;điên&amp;quot;, rằng nó sẽ không thành công.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABwCjErKysgU09UIEJhcmlzIMOWemVsLCBCdWdmb3VuZGF0aW9uIENvLUZvdW5kZXIgKysrEjtJbiB0aGUgbWVhbnRpbWUsIGV2ZXJ5Ym9keSB0aGlua3Mgd2hhdCB3ZSdyZSBkb2luZyBpcyBjb29sLg==</context>
+ </entry_metadata>
+ <translation_content_hash>d2774d256618635c324670adaae76cbf</translation_content_hash>
+ <entry_metadata_hash>6d063eb446b2b1029913207faa81a716</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:9248084161426354294:17528274128279921858:vi:13562291784423234264:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The main ingredient in Vera&amp;#39;s Bux Burger is ground lesser mealworms, ((the larvae of the darkling beetle.))</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Thành phần chính trong Bux Burger của Vera là ấu trùng dưới đất, ((ấu trùng của bọ cánh cứng sẫm màu.))</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The main ingredient in Vera&amp;#39;s Bux Burger is ground lesser mealworms, ((the larvae of the darkling beetle.))</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531897404000000">
+       <translation_content>Thành phần chính trong Bux Burger của Vera là ấu trùng dưới đất, ((ấu trùng của bọ cánh cứng sẫm màu.))</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAiCg8wMDoyMyDigJMgMDA6MjkSDzAwOjI5IOKAkyAwMDo0OA==</context>
+ </entry_metadata>
+ <translation_content_hash>a7b5c4f86f227982718be9f3751b5ee0</translation_content_hash>
+ <entry_metadata_hash>5448361c0d22c089e4519b4f5b897b4c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:7170562048473664865:10196624605373140271:vi:4496763297870225258:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>+++ SOT Baris Özel, Bugfoundation Co-Founder +++</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>+++ SOT Baris Özel, Đồng sáng lập Bugfoundation +++</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>+++ SOT Baris Özel, Bugfoundation Co-Founder +++</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531898267000000">
+       <translation_content>+++ SOT Baris Özel, Đồng sáng lập Bugfoundation +++</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACSCgQyLjExEokBIldoZW4gd2UgZmlyc3QgdG9sZCBmcmllbmRzLCBmYW1pbHkgYW5kIGFjcXVhaW50ZW5jZXMgYWJvdXQgb3VyIGlkZWEsIG1vc3Qgb2YgdGhlbSBzYWlkIHdlIHdlcmUgY3JhenksIHRoYXQgdGhlcmUncyBubyB3YXkgaXQgd291bGQgd29yay4=</context>
+ </entry_metadata>
+ <translation_content_hash>9f039c6f875979db97ac440ee0be3087</translation_content_hash>
+ <entry_metadata_hash>421c44b93e3e36994a752b8df9236a2d</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:570070950555074471:5813107795028878284:vi:3746531130966719628:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>+++ SOT Max Krämer, Bugfoundation Co-Founder +++</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>+++ SOT Max Krämer, Đồng sáng lập Bugfoundation +++</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>+++ SOT Max Krämer, Bugfoundation Co-Founder +++</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531898590000000">
+       <translation_content>+++ SOT Max Krämer, Đồng sáng lập Bugfoundation +++</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAEQCgQyLjUzEocCIkF0IHRoZSBzYW1lIHRpbWUgd2UncmUgaG9waW5nIHdlIHdpbGwgYmVjb21lIGEgbW9kZWwgZm9yIG90aGVyIGNvdW50cmllcywgZm9yIGluc3RhbmNlIGluIGRldmVsb3BpbmcgY291bnRyaWVzIHdoZXJlIHRoZXkgdXNlZCB0byBlYXQgaW5zZWN0cyBidXQgc3RvcHBlZCBkb2luZyBzbyBpbiBvcmRlciB0byBhZG9wdCB0aGUgd2VzdGVybiBsaWZlc3R5bGUgYW5kIGVhdCBiZWVmIGJ1cmdlcnMgLS0gZm9sbG93aW5nIHRoZSBNY0RvbmFsZHMgbGlmZXN0eWxlLiI=</context>
+ </entry_metadata>
+ <translation_content_hash>19aaf93bb7e09335188640a163e072ec</translation_content_hash>
+ <entry_metadata_hash>3168b5e8e88579c288f6a8d82b3abdda</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:4687936800754235356:10038553416673226682:vi:16304212424188236755:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>&amp;quot;It’s a bit dry but it has a nice flavour and I think I would definitely recommend it to my friends.&amp;quot;</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>&amp;quot;Nó hơi khô nhưng có hương vị khá hay, chắc chắn là tôi sẽ giới thiệu nó cho bạn bè của mình.&amp;quot;</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>&amp;quot;It’s a bit dry but it has a nice flavour and I think I would definitely recommend it to my friends.&amp;quot;</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531897337000000">
+       <translation_content>&amp;quot;Nó hơi khô nhưng có hương vị khá hay, chắc chắn là tôi sẽ giới thiệu nó cho bạn bè của mình.&amp;quot;</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAqCiMrKysgU09UIFZlcmEgQm9la2VsbWFuLCBTdHVkZW50ICsrKxIDKysr</context>
+ </entry_metadata>
+ <translation_content_hash>ef64434c09e717ede7af5b7cb02a39ff</translation_content_hash>
+ <entry_metadata_hash>25e39d824a780ebac28ca3b8e2ce09e7</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:17613118210521927388:12223959946253425487:vi:3100968895743300485:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Report by Gwendolin Hilse</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Bản tin của Gwendolin Hilse</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Report by Gwendolin Hilse</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531845425000000">
+       <translation_content>Bản tin của Gwendolin Hilse</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAA1CioyLjUzIE1heCBLcsOkbWVyLCBCdWdmb3VuZGF0aW9uIENvLUZvdW5kZXISB1NjcmlwdDo=</context>
+ </entry_metadata>
+ <translation_content_hash>32f2155285a7fb007239c94e3671e62e</translation_content_hash>
+ <entry_metadata_hash>c49b1c1c6f3f38d2a7cd650cdb555bdc</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:17101835339185740623:10022344694451769182:vi:17833576690115283229:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>+++ Nico Rood, Plant Manager Proti-Farm +++ ENGLISH</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>+++ Nico Rood, Quản lý xưởn tại Proti-Farm +++ TIẾNG ANH</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>+++ Nico Rood, Plant Manager Proti-Farm +++ ENGLISH</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531897554000000">
+       <translation_content>+++ Nico Rood, Quản lý xưởn tại Proti-Farm +++ TIẾNG ANH</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACXCg8wMTowNSDigJMgMDE6MjESgwEiSSB0aGluayB3aXRoaW4gZml2ZSB5ZWFycyBpdOKAmXMgcXVpdGUgbm9ybWFsIHRvIGVhdCB0aGUgaW5zZWN0cywgaXQgd2lsbCBiZSB0aGUgaW5ncmVkaWVudCBpbnNpZGUgYSBsb3Qgb2YgZm9vZCBwcm9kdWN0cyBJIHRoaW5rLg==</context>
+ </entry_metadata>
+ <translation_content_hash>b6947857169997885d1c924c668b718d</translation_content_hash>
+ <entry_metadata_hash>a806ca83185bc755ea51403116b5bbc0</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:16010914966368886267:9602352146896859824:vi:2770701971710868141:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>But it&amp;#39;s not just any old burger, because half of the meat patty consists of ground-up insect larvae.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Nhưng nó không phải là bánh burger kiểu cũ đâu, bởi vì một nửa của viên chả thịt có cả ấu trùng giun đất.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>But it&amp;#39;s not just any old burger, because half of the meat patty consists of ground-up insect larvae.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531845455000000">
+       <translation_content>Nhưng nó không phải là bánh burger kiểu cũ đâu, bởi vì một nửa của viên chả thịt có cả ấu trùng giun đất.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABlCjFBdCBmaXJzdCBnbGFuY2UgaXQgbG9va3MgbGlrZSBhIG5vcm1hbCBoYW1idXJnZXIuEjBTdHVkZW50IFZlcmEgQm9la2VsbWFuIHRyaWVkIG91dCB0aGUgQnV4IEJ1cmdlci4=</context>
+ </entry_metadata>
+ <translation_content_hash>a576f04780e073a40b82f89cf905ea9e</translation_content_hash>
+ <entry_metadata_hash>305ea0532c476c6219c81fb471e36f76</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:15672025549735976489:1437704195630990960:vi:5538858689916695498:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>2.53 Max Krämer, Bugfoundation Co-Founder</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>2,53 Max Krämer, Đồng sáng lập Bugfoundation</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>2.53 Max Krämer, Bugfoundation Co-Founder</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531899001000000">
+       <translation_content>2,53 Max Krämer, Đồng sáng lập Bugfoundation</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABHCioyLjExIEJhcmlzIMOWemVsLCBCdWdmb3VuZGF0aW9uIENvLUZvdW5kZXISGVJlcG9ydCBieSBHd2VuZG9saW4gSGlsc2U=</context>
+ </entry_metadata>
+ <translation_content_hash>c6881102d77c964fcbb5fec03f096157</translation_content_hash>
+ <entry_metadata_hash>9ad6a4760587ab931188583e6f075ad5</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:13775519677545919483:606144471296232479:vi:5303628019681858474:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Student Vera Boekelman tried out the Bux Burger.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Sinh viên Vera Boekelman đã thử Bux Burger.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Student Vera Boekelman tried out the Bux Burger.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531899010000000">
+       <translation_content>Sinh viên Vera Boekelman đã thử Bux Burger.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAB4CmVCdXQgaXQncyBub3QganVzdCBhbnkgb2xkIGJ1cmdlciwgYmVjYXVzZSBoYWxmIG9mIHRoZSBtZWF0IHBhdHR5IGNvbnNpc3RzIG9mIGdyb3VuZC11cCBpbnNlY3QgbGFydmFlLhIPMDA6MTUg4oCTIDAwOjIw</context>
+ </entry_metadata>
+ <translation_content_hash>d5ee1aa0adf1fd89bb15fe4aaad35cf4</translation_content_hash>
+ <entry_metadata_hash>cf11248ba4833604069b0325693ca06b</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:13593867140325277581:14481593121693997184:vi:9749587661240215294:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Inserts:</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Những người xuất hiện:</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Inserts:</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1531845037000000">
+       <translation_content>Những người xuất hiện:</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAeEhwwOjE1IFZlcmEgQm9la2VsbWFuLCBTdHVkZW50</context>
+ </entry_metadata>
+ <translation_content_hash>1109bb01ff7a6f9619130afcc9962531</translation_content_hash>
+ <entry_metadata_hash>7cb5972812d477e73f473083be2a0e8b</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:18214722669523664289:2953152796148892015:vi:12584616707515416273:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>1:05 Nico Rood, Plant Manager Proti-Farm</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>1:05 Nico Rood, quản lý xưởng tại Proti-Farm</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>1:05 Nico Rood, Plant Manager Proti-Farm</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="793737358997" translation_timestamp="1531797571000000">
+       <translation_content>1:05 Nico Rood, quản lý xưởng tại Proti-Farm</translation_content>
+       <translator_email>mad30589@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABKChwwOjE1IFZlcmEgQm9la2VsbWFuLCBTdHVkZW50EioyLjExIEJhcmlzIMOWemVsLCBCdWdmb3VuZGF0aW9uIENvLUZvdW5kZXI=</context>
+ </entry_metadata>
+ <translation_content_hash>017803bb70ca7f3161e56e2dc2e6e1af</translation_content_hash>
+ <entry_metadata_hash>6a593a04b51db4595dedd6737fb74c02</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:15513825099657672166:13066879806285385294:vi:9078424698147175428:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Nico Rood is Plant Manager of Proti-Farm.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Nico Rood là quản lý xưởng tại Proti-Farm.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Nico Rood is Plant Manager of Proti-Farm.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="793737358997" translation_timestamp="1531797857000000">
+       <translation_content>Nico Rood là quản lý xưởng tại Proti-Farm.</translation_content>
+       <translator_email>mad30589@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABKCg8wMDo0OCDigJMgMDE6MDYSN0hlIHBlcmZvcm1zIHJlZ3VsYXIgY2hlY2tzIG9uIHRoZSBxdWFsaXR5IG9mIGhpcyB3b3Jtcy4=</context>
+ </entry_metadata>
+ <translation_content_hash>c84a2c49bb390f0ed166333db5314aef</translation_content_hash>
+ <entry_metadata_hash>aac740541949185cc6218e43c3fb3196</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:7180519043315827850:13779812359853059426:vi:9560337344980433472:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>But recently they&amp;#39;ve been producing more and more larvae for human consumption.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Nhưng gần đây họ đã sản xuất ngày càng nhiều ấu trùng cho nhu cầu tiêu thụ của con người.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>But recently they&amp;#39;ve been producing more and more larvae for human consumption.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531710415000000">
+       <translation_content>Nhưng gần đây họ đã sản xuất ngày càng nhiều ấu trùng cho nhu cầu tiêu thụ của con người.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACOCntUaGUgbWFudWZhY3R1cmVycyBoYXZlIGJlZW4gYnJlZWRpbmcgaW5zZWN0cyBoZXJlIGZvciBhYm91dCA0MCB5ZWFycywgbWFpbmx5IGFzIGFuaW1hbCBmZWVkIGFuZCBmb3IgdGhlIGNvc21ldGljcyBpbmR1c3RyeS4SDzAwOjQ4IOKAkyAwMTowNg==</context>
+ </entry_metadata>
+ <translation_content_hash>9d971dccc006ea60632a2fdcda5ab88f</translation_content_hash>
+ <entry_metadata_hash>a6d50fe5044dfee852353fb0f82a9930</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:6197917740697186656:4511643653991823947:vi:5626343365689526275:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The production of the insect burgers begins here in the Dutch town of Ermelo.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Việc sản xuất bánh mì kẹp thịt côn trùng bắt đầu ở đây tại thị trấn Ermelo của Hà Lan.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The production of the insect burgers begins here in the Dutch town of Ermelo.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531707308000000">
+       <translation_content>Việc sản xuất bánh mì kẹp thịt côn trùng bắt đầu ở đây tại thị trấn Ermelo của Hà Lan.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACOCg8wMDoyOSDigJMgMDA6NDgSe1RoZSBtYW51ZmFjdHVyZXJzIGhhdmUgYmVlbiBicmVlZGluZyBpbnNlY3RzIGhlcmUgZm9yIGFib3V0IDQwIHllYXJzLCBtYWlubHkgYXMgYW5pbWFsIGZlZWQgYW5kIGZvciB0aGUgY29zbWV0aWNzIGluZHVzdHJ5Lg==</context>
+ </entry_metadata>
+ <translation_content_hash>088b287113cbfcd1fe82a4922ab12c09</translation_content_hash>
+ <entry_metadata_hash>a263bec85520cbf70cf0e377e418ab0d</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:5834092682270953300:1992169193927968129:vi:12739084225794570070:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>They worked on the development of their burger patties for more than a year.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Họ đã nghiên cứu viên chả thịt cho bánh burger của họ trong hơn một năm.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>They worked on the development of their burger patties for more than a year.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531710324000000">
+       <translation_content>Họ đã nghiên cứu viên chả thịt cho bánh burger của họ trong hơn một năm.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABTCgMyMzASTFRoZSBncm91bmQgbWVhbHdvcm1zIGFyZSBtaXhlZCB3aXRoLCBwZWFzLCB3YXRlciBhbmQgYSBzZWNyZXQgc3BpY2UgbWl4dHVyZS4=</context>
+ </entry_metadata>
+ <translation_content_hash>0d2756d98927b3f512bead48531207d4</translation_content_hash>
+ <entry_metadata_hash>b2a50fc34cf902c27be584955295eabb</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:5338860219575884960:1995007303157445223:vi:5295715474940947234:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>He performs regular checks on the quality of his worms.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Ông thường xuyên kiểm tra chất lượng ấu trùng của mình.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>He performs regular checks on the quality of his worms.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531708765000000">
+       <translation_content>Ông thường xuyên kiểm tra chất lượng ấu trùng của mình.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABqCilOaWNvIFJvb2QgaXMgUGxhbnQgTWFuYWdlciBvZiBQcm90aS1GYXJtLhI9QXJvdW5kIHR3byBiaWxsaW9uIHBlb3BsZSBhcm91bmQgdGhlIHdvcmxkIGVhdCBpbnNlY3RzIGRhaWx5Lg==</context>
+ </entry_metadata>
+ <translation_content_hash>10462cb18032bedf4deae3ee545e7318</translation_content_hash>
+ <entry_metadata_hash>3ac66cb979c235da817f9cf3227c63a9</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:364322749667366670:10642681920964073687:vi:901129761718031596:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The founders hope their burger will lead to less meat being eaten.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Những người sáng lập hy vọng hamburger của họ sẽ dẫn đến việc ăn ít thịt hơn.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>The founders hope their burger will lead to less meat being eaten.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531710504000000">
+       <translation_content>Những người sáng lập hy vọng hamburger của họ sẽ dẫn đến việc ăn ít thịt hơn.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACmCkxUaGUgZ3JvdW5kIG1lYWx3b3JtcyBhcmUgbWl4ZWQgd2l0aCwgcGVhcywgd2F0ZXIgYW5kIGEgc2VjcmV0IHNwaWNlIG1peHR1cmUuElZUaGF0IHdpbGwgYmUgZ29vZCBmb3IgdGhlIGVudmlyb25tZW50IGJlY2F1c2UgbGVzcyBncmFpbiB3aWxsIGJlIHVzZWQgZm9yIGNhdHRsZSBmZWVkLg==</context>
+ </entry_metadata>
+ <translation_content_hash>eb0e8fce86ed712b320ee5bc447cbc51</translation_content_hash>
+ <entry_metadata_hash>27641fbd625125830c5699e0270d919a</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:2272408201089145652:184022159619147538:vi:7021617233566663735:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Starting next year selling insect food products will be legallized in Germany too.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Từ năm tới, việc bán thực phẩm chứa côn trùng cũng sẽ được hợp pháp tại Đức.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Starting next year selling insect food products will be legallized in Germany too.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531710910000000">
+       <translation_content>Từ năm tới, việc bán thực phẩm chứa côn trùng cũng sẽ được hợp pháp tại Đức.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACNCjNUaGUgZXhvdGljIGhhbWJ1cmdlcnMgY29zdCBiZXR3ZWVuIDEyIGFuZCAxNyBldXJvcy4SVlRoZW4gdGhlIEJ1Z2ZvdW5kYXRpb24gZm91bmRlcnMgd2lsbCBiZSB3b3JtaW5nIHRoZWlyIHdheSBpbnRvIHRoZSBmYXN0IGZvb2QgYnVzaW5lc3Mu</context>
+ </entry_metadata>
+ <translation_content_hash>a30eb13c9ec18bc41857acb32c881d3a</translation_content_hash>
+ <entry_metadata_hash>7cbbc621afd2cbbc7b4a8c3c6b3c8afd</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:1788591874494171534:16695984237617139893:vi:17204903001285870285:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>And their CO2 emissions are minimal.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Và lượng khí thải CO2 của chúng là rất ít.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>And their CO2 emissions are minimal.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531709549000000">
+       <translation_content>Và lượng khí thải CO2 của chúng là rất ít.</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAC0CmdUaGV5IG9ubHkgbmVlZCBhIGZyYWN0aW9uIG9mIHRoZSBzcGFjZSwgd2F0ZXIgYW5kIGZlZWQgdGhhdCBicmVlZGluZyBoaWdoZXIgb3JkZXJzIG9mIGFuaW1hbHMgcmVxdWlyZXMuEklUaGUgbGFydmFlIGxpdmUgZm9yIHRocmVlIG1vbnRocyBpbiB0aGVzZSBib3hlcyB3aGVyZSB0aGV5IGNvbnN1bWUgZ3JhaW4u</context>
+ </entry_metadata>
+ <translation_content_hash>9d7eb722d1232ed35a5b7801669d0e3b</translation_content_hash>
+ <entry_metadata_hash>6103a70d44dea6ca9c5a41e8b21fe4ac</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:16412061149740351754:3599138507718837516:vi:4002333579689411599:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Script:</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Phụ đề:</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>Script:</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531706718000000">
+       <translation_content>Phụ đề:</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAiChlSZXBvcnQgYnkgR3dlbmRvbGluIEhpbHNlEgUwMDowMg==</context>
+ </entry_metadata>
+ <translation_content_hash>97d7f1f6cf263431f5fdcc93c41c87d5</translation_content_hash>
+ <entry_metadata_hash>07fe962a91169e2a414f2d6989f31e3a</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:13639662800514838096:6657500395393300075:vi:3099753570446781655:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>2.53</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>2.53</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>2.53</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531710558000000">
+       <translation_content>2.53</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABfCipBbmQgdGhlIGluc2VjdHMgYXJlIGFsc28gY2xpbWF0ZSBmcmllbmRseS4SMSsrKyBTT1QgTWF4IEtyw6RtZXIsIEJ1Z2ZvdW5kYXRpb24gQ28tRm91bmRlciArKys=</context>
+ </entry_metadata>
+ <translation_content_hash>5d37bb5ea2314f66dfe468cda9233522</translation_content_hash>
+ <entry_metadata_hash>a87ea4713b9ff0f06e712b476982af2c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:13639662800514838096:4284812002914422812:vi:11185703459612808622:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>2.11</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>2.11</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>2.11</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="1089295111630" translation_timestamp="1531709744000000">
+       <translation_content>2.11</translation_content>
+       <translator_email>luutuanvu.kenpro@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABqCjVUaGF0J3MgaG93IHRoZXkgZ290IHRoZSBpZGVhIHRvIHN0YXJ0IHRoZWlyIGJ1c2luZXNzLhIxKysrIFNPVCBCYXJpcyDDlnplbCwgQnVnZm91bmRhdGlvbiBDby1Gb3VuZGVyICsrKw==</context>
+ </entry_metadata>
+ <translation_content_hash>c3d569cd876d79e6292a130039c8aa20</translation_content_hash>
+ <entry_metadata_hash>effdfdfa73c2f5b8ed1d1986e7f354aa</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:vi:false:4553547884811470958:5049721704100874178:vi:10479955079401494878:en:;translation:REVIEWED:5cfa2b5b9490d7d8:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>I hope you had fun.</seg>
+ </tuv>
+ <tuv xml:lang="vi">
+   <seg>Tôi hy vọng các bạn thấy vui vẻ.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry component_type="UNSPECIFIED">
+     <source_info>
+       <source>I hope you had fun.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED" is_archived="false">
+       <target_lang>vi</target_lang>
+       <tm_id>5cfa2b5b9490d7d8</tm_id>
+     </translation_info>
+     <translation translator_id="251490568540" translation_timestamp="1530632977000000">
+       <translation_content>Tôi hy vọng các bạn thấy vui vẻ.</translation_content>
+       <translator_email>doanminhdang@gmail.com</translator_email>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAABLCjlTcGVha2VyOiBUaGF0IHdhcyBvdXIgbmluZS1hbmQtYS1oYWxmIG1pbnV0ZXMgZm9yIHRvZGF5LiASDlNlZSB5b3Ugc29vbiEg</context>
+ </entry_metadata>
+ <translation_content_hash>9738cf997b902ddebed010e9b32765b2</translation_content_hash>
+ <entry_metadata_hash>2f08033a41dcf984431e44b6f59a146a</entry_metadata_hash>
+</tu>
+</body>
+</tmx>
